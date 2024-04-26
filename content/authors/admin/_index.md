@@ -21,23 +21,23 @@ role: Student of Computer Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Shanghai Technology university
+  - name: ShanghaiTech University
     url: https://www.shanghaitech.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include photoacoustic imaging, artificial intelligencer and machine learning.
 
 # Interests to show in About widget
 interests:
   - Artificial Intelligence
-  - Photoacoustic Imaging
   - Machine Learning
+  - Photoacoustic Imaging
 
 # Education to show in About widget
 education:
   courses:
-    - course: MEng in Computer Science
-      institution: ShanghaiTech
+    - course: studying in Computer Science and Technolog
+      institution: ShanghaiTech University
       year: 
     - course: BSc in Data science and Big Data technology
       institution: Southwest University of Science and Technology
@@ -53,35 +53,29 @@ skills:
         percent: 80
         icon: python
         icon_pack: fab
-      - name: Data Science
+
+      - name: Matlab
         description: ''
-        percent: 100
-        icon: chart-line
+        percent: 50
+        icon: matlab
         icon_pack: fas
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: database
-        icon_pack: fas
+
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-hiking
-        icon_pack: fas
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-        icon_pack: fas
       - name: Photography
         description: ''
         percent: 80
         icon: camera-retro
         icon_pack: fas
+
+      - name: Piano
+        description: ''
+        percent: 200
+        icon: cat
+        icon_pack: fas
+
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
