@@ -21,7 +21,7 @@ role: Student of Computer Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: ShanghaiTech
+  - name: Shanghai Technology university
     url: https://www.shanghaitech.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
