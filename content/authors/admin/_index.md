@@ -88,7 +88,7 @@ social:
 
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com.hk/citations?user=8hmJp7cAAAAJ&hl=zh-CN
 
   - icon: github
     icon_pack: fab
@@ -105,5 +105,5 @@ social:
 highlight_name: true
 ---
 
-Pengcheng wan is a master student of computer science at the ShanghaiTech HISLab. His research interests include deep learning, machine learning, photoacoustic imaging. 
+I am a master student of Computer Science and Technology with the School of Information Science and Technology at ShanghaiTech University, Shanghai, China. His research interests include deep learning, machine learning, photoacoustic imaging. I am fortunate to join the [Hybrid Imaging System Lab(HISLab)](http://www.hislab.cn/) at ShanghaiTech University from 2024, supervised by [Prof. Fei Gao.](https://sist.shanghaitech.edu.cn/gaofei/main.htm). Before this, I received a bachelor of science degree in Data science and Big Data technology from the College of Mathematics and Physics, Southwest University of Science and Technology, Mianyang, China in 2024. During my undergraduate study, I was fortunate to work with [Prof. Shuangli Liu](https://info.swust.edu.cn/index.php?a=index&f=tc&aid=277&id=21) on Thermoacoustic imaging.
 {style="text-align: justify;"}
